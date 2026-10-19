@@ -1,0 +1,13 @@
+work/
+outputs/
+.DS_Store
+**/.build/
+**/bin/
+**/obj/
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
